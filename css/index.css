@@ -1,0 +1,125 @@
+.colf1, .colf2, .colf3 {
+  height: .3em;
+}
+
+.colf1 {
+  background-color: rgb(5, 237, 209);
+}
+
+.colf2 {
+  background-color: rgb(0, 0, 0);
+}
+
+.colf3 {
+  background-color: rgb(217, 4, 132);
+}
+#logo img{
+  width: 60px;
+}
+
+.titleLogo{
+  font-family: 'Rancho', cursive;
+  color: rgb(0, 0, 0);
+  font-size: 2em;
+  padding: .5em;
+}
+.titleLogo:hover{
+  font-family: 'Rancho', cursive;
+  color:rgb(128, 138, 143);
+  font-size: 2em;
+  text-decoration:none;
+}
+.text-cita{
+  color: rgb(217, 4, 132) !important;
+}
+.text-cita:hover{
+  font-style: oblique;
+}
+#main .carousel-inner img{
+  max-height: 80vh;
+  object-fit: cover;
+
+}
+#carousel{
+  position: relative;
+}
+#carousel .overlay{
+  position: absolute;
+  top: 0;
+  bottom: 10%;
+  left: 10%;
+  right: 10%;
+  color:white;
+}
+#carousel .overlay .container,
+#carousel .overlay .row{
+  height: 100%;
+}
+.overlay h1{
+  font-family: 'Rancho', cursive;
+  color: rgb(0, 0, 0);
+  font-size: 5em;
+}
+.overlay h2{
+  color: rgb(217, 4, 132);
+}
+.overlay h2 i{
+  color: rgb(5, 237, 209);
+}
+.overlay p{
+  color: black;
+}
+.btn-outline-1{
+  border-color: rgb(5, 237, 209);
+  color: rgb(5, 237, 209);
+}
+.btn-d2{
+  background-color: rgb(217, 4, 132);
+  color: white;
+}
+.btn-outline-1:hover{
+  background-color: rgb(5, 237, 209);
+  color: white;
+}
+.fa-tooth{
+  padding-right: 5px;
+}
+.personalizacion{
+  color: rgb(5, 237, 209);
+  font-size: 5em;
+}
+.btn-perso{
+  background-color: rgb(217, 4, 132);
+  color:white;
+  border: none;
+}
+.btn-perso:hover {
+  background-color:rgb(217, 8, 180);
+}
+.fa-whatsapp-cita{
+  color:rgb(217, 4, 132);
+  font-size: 5em;
+}
+.n_whats{
+  font-size: 2em;
+  color: rgb(5, 237, 209);
+}
+.n_whats a{
+  text-decoration: none;
+  margin-left: 8px;
+  color: rgb(217, 4, 132);
+}
+
+/* #newsletter {
+  background-image: url(../assets/images/OH1WD50.jpg);
+  height: 450px;
+} */
+
+footer {
+  background-color: rgb(6, 1, 10);
+  color: white;
+
+
+footer a {
+  color: white;
+}
