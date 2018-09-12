@@ -55,7 +55,7 @@
 #carousel .overlay .row{
   height: 100%;
 }
-.overlay h1{
+.overlay .h1{
   font-family: 'Rancho', cursive;
   color: rgb(0, 0, 0);
   font-size: 5em;
@@ -115,11 +115,26 @@
   height: 450px;
 } */
 
-footer {
-  background-color: rgb(6, 1, 10);
-  color: white;
-
+#footer {
+    background-color: rgb(6, 1, 10);
+    color: white;
+}
 
 footer a {
   color: white;
+}
+/*moviles*/
+@media screen and (max-width: 767px) {
+  /* footer */
+  .overlay .h1{
+    font-family: 'Rancho', cursive;
+    color: rgb(0, 0, 0);
+    font-size: 2.5em;
+  }
+  .btn-outline-1{
+    font-size: 10px;
+  }
+  .btn-d2{
+    font-size: 10px;
+  }
 }
