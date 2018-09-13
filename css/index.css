@@ -124,10 +124,9 @@
   color: rgb(217, 4, 132);
 }
 
-/* #newsletter {
-  background-image: url(../assets/images/OH1WD50.jpg);
-  height: 450px;
-} */
+#nosotros img {
+  max-width: 650px;
+}
 
 #footer {
     background-color: rgb(6, 1, 10);
