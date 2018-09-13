@@ -16,13 +16,16 @@
 #logo img{
   width: 60px;
 }
-#whatsapp{
+#whatsapp i{
   font-size: 1.3em;
+  margin-left: 10px;
   color: rgb(5, 237, 209);
 }
 #whatsapp a{
+  padding: 10px;
   color:rgb(217, 4, 132);
 }
+
 #whatsapp a:hover{
   text-decoration: none;
 }
@@ -125,9 +128,11 @@
 }
 
 #nosotros img {
-  max-width: 650px;
+  width: 100%;
 }
-
+#nosotros{
+  border-color: 1px solid white;
+}
 #footer {
     background-color: rgb(6, 1, 10);
     color: white;
