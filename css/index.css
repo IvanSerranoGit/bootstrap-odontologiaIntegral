@@ -16,12 +16,26 @@
 #logo img{
   width: 60px;
 }
-
+#whatsapp{
+  font-size: 1.3em;
+  color: rgb(5, 237, 209);
+}
+#whatsapp a{
+  color:rgb(217, 4, 132);
+}
+#whatsapp a:hover{
+  text-decoration: none;
+}
 .titleLogo{
   font-family: 'Rancho', cursive;
   color: rgb(0, 0, 0);
   font-size: 2em;
   padding: .5em;
+}
+.noborder{
+  align-items: center;
+  border: none;
+  background-color: transparent;
 }
 .titleLogo:hover{
   font-family: 'Rancho', cursive;
