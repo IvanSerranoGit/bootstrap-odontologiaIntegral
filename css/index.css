@@ -137,7 +137,52 @@
     background-color: rgb(6, 1, 10);
     color: white;
 }
+.contacto i{
+  color:rgb(5, 237, 209);
+}
+.contacto spam{
+  color:rgb(217, 4, 132);
+}
+.contactoB {
+  font-size: 2.5em;
+}
+.fa-twitter-square{
+  color: #2AA3F0;
+}
+.fa-facebook-square{
+  color:#3E5B98;
+}
+.fa-whatsapp-square{
+  color: #55E968;
+}
+.fa-pinterest-square{
+  color: #CF2431;
+}
+.fa-instagram{
+  color: #C73384;
+}
+#separar{
+  margin-bottom: 10px;
+  border-top: 2px solid rgb(190, 194, 190)
+}
+p small{
+  font-family: 'Raleway', sans-serif;
+  font-size: 10px;
+  position: relative;
+}
+.navbar-brand{
+  max-height: 70px;
+  width: 90px;
+}
+.navbar-brand img{
+  margin: 0;
 
+}
+.logo{
+  font-family: 'Rancho', cursive;
+  font-size: 1.5em;
+
+}
 footer a {
   color: white;
 }

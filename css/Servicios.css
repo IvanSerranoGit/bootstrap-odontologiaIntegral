@@ -1,0 +1,23 @@
+#Estética{
+  background-image: url("../assets/images/Estética Dental.jpg");
+  height: 80vh;
+  background-size: 100%;
+}
+.card1 img{
+  width: 30%;
+}
+.card2 img{
+  margin-top: 35px;
+  width: 40%;
+}
+@media screen and (max-width: 767px) {
+  /* footer */
+  #Estética{
+    background-image: url("../assets/images/Estética Dental.jpg");
+    height: 20vh;
+    background-size: 100%;
+  }
+  .h1{
+    font-size: 2em;
+  }
+}
